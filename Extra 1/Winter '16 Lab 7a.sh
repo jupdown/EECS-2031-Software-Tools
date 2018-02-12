@@ -1,5 +1,5 @@
 #!/bin/sh
-# EECS 2031Z - Lab 4
+# EECS 2031Z - Extra Lab 1
 # Filename: Winter '16 Lab 7a.sh
 # Author: Stegmaier, John
 # Email: jupdown@my.yorku.ca
